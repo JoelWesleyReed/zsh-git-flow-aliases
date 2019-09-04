@@ -1,0 +1,21 @@
+#
+# Git Flow Aliases
+#
+alias gfl='git flow'
+alias gfli='git flow init'
+alias gflf='git flow feature'
+alias gflfs='git flow feature start'
+alias gflfp='git flow feature publish'
+alias gflfpull='git flow feature pull origin'
+alias gflft='git flow feature track'
+alias gflff='git flow feature finish'
+alias gflr='git flow release'
+alias gflrs='git flow release start'
+alias gflrp='git flow release publish'
+alias gflrt='git flow release track'
+alias gflrf='git flow release finish'
+alias gflh='git flow hotfix'
+alias gflhs='git flow hotfix start'
+alias gflhf='git flow hotfix finish'
+alias gfls='git flow support'
+alias gflv='git flow version'
